@@ -9,11 +9,6 @@
 ### About Me
 I build AI-powered applications using large language models, NLP, and generative AI. Focused on turning LLMs into practical, usable products.
 
-### 🔨 Currently Building
-  **AI FAQ Chatbot** — LLM-powered chatbot for automated support
-  **Multilingual AI Translator** — AI-driven translation across languages
-  **Subscription Management System** — billing and subscription workflows
-
 ### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -23,11 +18,11 @@ I build AI-powered applications using large language models, NLP, and generative
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" width="48%" />
 </p>
 
-### 📫 Connect With Me
+### Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/shayan-link/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:shayansk425@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://shyncode.github.io/my-portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> </p>
