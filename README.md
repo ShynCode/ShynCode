@@ -1,52 +1,33 @@
-<h1 align="center">Hi, I'm Shayan Khan 👋</h1>
-<h3 align="center">AI/LLM Engineer | Building practical applications with LLMs & NLP</h3>
+<h1 align="center">Hi there, I'm Shayan </h1>
 
 <p align="center">
-  I design and build AI-powered systems — from chatbots to translation tools — 
-  turning LLM capabilities into real, usable products.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+%2F+LLM+Engineer;Building+with+Large+Language+Models;NLP+%7C+Generative+AI+%7C+Chatbots" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔭 What I'm Focused On
+### About Me
+I build AI-powered applications using large language models, NLP, and generative AI. Focused on turning LLMs into practical, usable products.
 
-- 🤖 **Large Language Models** — building applications on top of LLMs (OpenAI API and beyond)
-- 💬 **AI Chatbots & Conversational AI**
-- 🌍 **Natural Language Processing** — translation, understanding, generation
-- 🧠 **Generative AI** applications end-to-end (prototype → deployable product)
+### 🔨 Currently Building
+  **AI FAQ Chatbot** — LLM-powered chatbot for automated support
+  **Multilingual AI Translator** — AI-driven translation across languages
+  **Subscription Management System** — billing and subscription workflows
 
-### 🚧 Currently Building
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-- **AI FAQ Chatbot** — an LLM-powered chatbot for automated FAQ handling
-- **Multilingual AI Translator** — an AI-driven translation tool supporting multiple languages
-- **Subscription Management System** — a system for managing subscriptions and billing workflows
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" width="48%" />
+</p>
 
-### 🛠️ Tech Stack
-
-**Languages & Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI / LLM**
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Web & Backend**
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 🎓 Background
-
-BS in Information Technology, with a focus on applying that foundation toward AI/LLM engineering roles.
-
-### 📫 Let's Connect
-
-www.linkedin.com/in/shayan-link https://shyncode.github.io/my-portfolio/ https://github.com/ShynCode
+### 📫 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/shayan-link/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:shayansk425@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://shyncode.github.io/my-portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> </p>
